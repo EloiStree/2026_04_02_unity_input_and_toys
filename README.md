@@ -1,6 +1,7 @@
 # Unity Input And Toys
 
 <img width="560" height="266" alt="image" src="https://github.com/user-attachments/assets/69098dea-81ce-4901-bc19-ac5da6517db4" />
+<img width="804" height="217" alt="image" src="https://github.com/user-attachments/assets/85173bdf-9326-4f91-8ecb-9e44b2bd87b3" />
 
 
 > Unity project to check the status of my Toy Unity Package and the Tick Input one.
