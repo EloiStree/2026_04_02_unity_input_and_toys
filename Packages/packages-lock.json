@@ -1,5 +1,65 @@
 {
   "dependencies": {
+    "be.elab.3dbenchy": {
+      "version": "file:2024_09_14_upm_benchy_boat",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.fpvtoy": {
+      "version": "file:2024_10_02_upm_kid_toy_fpv_drone_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.hellocopter": {
+      "version": "file:2023_02_19_upm_kid_toy_helicopter_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.ovnitoy": {
+      "version": "file:2025_04_15_upm_kid_toy_ovni_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.skidtoycar": {
+      "version": "file:2023_11_01_upm_kid_toy_skid_steering_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.tellotoy": {
+      "version": "file:2023_02_19_upm_kid_toy_drone_tello_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.tickcollection": {
+      "version": "file:2025_06_02_upm_tick_collection",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.toyboat": {
+      "version": "file:2024_09_23_upm_kid_toy_boat_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.toytank": {
+      "version": "file:2024_10_05_upm_kid_toy_tank_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.uvdrawabledrones": {
+      "version": "file:2024_08_05_upm_uv_drawable_drones",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
       "depth": 0,

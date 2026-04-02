@@ -1,0 +1,30 @@
+[submodule "Packages/2025_06_02_upm_tick_collection"]
+	path = Packages/2025_06_02_upm_tick_collection
+	url = https://github.com/EloiStree/2025_06_02_upm_tick_collection.git
+[submodule "Packages/2023_11_01_upm_kid_toy_skid_steering_code"]
+	path = Packages/2023_11_01_upm_kid_toy_skid_steering_code
+	url = https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git
+[submodule "Packages/2023_02_19_upm_kid_toy_helicopter_code"]
+	path = Packages/2023_02_19_upm_kid_toy_helicopter_code
+	url = https://github.com/EloiStree/2023_02_19_upm_kid_toy_helicopter_code.git
+[submodule "Packages/2025_04_15_upm_kid_toy_ovni_code"]
+	path = Packages/2025_04_15_upm_kid_toy_ovni_code
+	url = https://github.com/EloiStree/2025_04_15_upm_kid_toy_ovni_code.git
+[submodule "Packages/2023_02_19_upm_kid_toy_drone_tello_code"]
+	path = Packages/2023_02_19_upm_kid_toy_drone_tello_code
+	url = https://github.com/EloiStree/2023_02_19_upm_kid_toy_drone_tello_code.git
+[submodule "Packages/2024_09_23_upm_kid_toy_boat_code"]
+	path = Packages/2024_09_23_upm_kid_toy_boat_code
+	url = https://github.com/EloiStree/2024_09_23_upm_kid_toy_boat_code.git
+[submodule "Packages/2024_10_05_upm_kid_toy_tank_code"]
+	path = Packages/2024_10_05_upm_kid_toy_tank_code
+	url = https://github.com/EloiStree/2024_10_05_upm_kid_toy_tank_code.git
+[submodule "Packages/2024_08_05_upm_uv_drawable_drones"]
+	path = Packages/2024_08_05_upm_uv_drawable_drones
+	url = https://github.com/EloiStree/2024_08_05_upm_uv_drawable_drones.git
+[submodule "Packages/2024_09_14_upm_benchy_boat"]
+	path = Packages/2024_09_14_upm_benchy_boat
+	url = https://github.com/EloiStree/2024_09_14_upm_benchy_boat.git
+[submodule "Packages/2024_10_02_upm_kid_toy_fpv_drone_code"]
+	path = Packages/2024_10_02_upm_kid_toy_fpv_drone_code
+	url = https://github.com/EloiStree/2024_10_02_upm_kid_toy_fpv_drone_code.git
