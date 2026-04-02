@@ -1,5 +1,9 @@
 # Unity Input And Toys
 
+<img width="560" height="266" alt="image" src="https://github.com/user-attachments/assets/69098dea-81ce-4901-bc19-ac5da6517db4" />
+<img width="804" height="217" alt="image" src="https://github.com/user-attachments/assets/85173bdf-9326-4f91-8ecb-9e44b2bd87b3" />
+
+
 > Unity project to check the status of my Toy Unity Package and the Tick Input one.
 
 - Tick: https://github.com/EloiStree/2025_06_02_upm_tick_collection.git
@@ -7,11 +11,14 @@
 - Helicopter: https://github.com/EloiStree/2023_02_19_upm_kid_toy_helicopter_code.git
 - OVNI: https://github.com/EloiStree/2025_04_15_upm_kid_toy_ovni_code.git
 - Tello: https://github.com/EloiStree/2023_02_19_upm_kid_toy_drone_tello_code.git
+- FPV Acro; https://github.com/EloiStree/2024_10_02_upm_kid_toy_fpv_drone_code.git
 - Boat : https://github.com/EloiStree/2024_09_23_upm_kid_toy_boat_code.git
 - Tank : https://github.com/EloiStree/2024_10_05_upm_kid_toy_tank_code.git
 - UV Drawable Drones: https://github.com/EloiStree/2024_08_05_upm_uv_drawable_drones.git
+- Benchy https://github.com/EloiStree/2024_09_14_upm_benchy_boat.git
 
 As package to use
+https://github.com/EloiStree/2024_09_14_upm_benchy_boat.git
 ```
     "be.elab.tickcollection": "https://github.com/EloiStree/2025_06_02_upm_tick_collection.git",
     "be.elab.skidtoycar": "https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code.git",
@@ -33,4 +40,6 @@ git submodule add https://github.com/EloiStree/2023_02_19_upm_kid_toy_drone_tell
 git submodule add https://github.com/EloiStree/2024_09_23_upm_kid_toy_boat_code.git Packages/2024_09_23_upm_kid_toy_boat_code
 git submodule add https://github.com/EloiStree/2024_10_05_upm_kid_toy_tank_code.git Packages/2024_10_05_upm_kid_toy_tank_code
 git submodule add https://github.com/EloiStree/2024_08_05_upm_uv_drawable_drones.git Packages/2024_08_05_upm_uv_drawable_drones
+git submodule add https://github.com/EloiStree/2024_09_14_upm_benchy_boat.git Packages/2024_09_14_upm_benchy_boat
+git submodule add https://github.com/EloiStree/2024_10_02_upm_kid_toy_fpv_drone_code.git Packages/2024_10_02_upm_kid_toy_fpv_drone_code
 ```
