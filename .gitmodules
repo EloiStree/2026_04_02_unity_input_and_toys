@@ -28,3 +28,42 @@
 [submodule "Packages/2024_10_02_upm_kid_toy_fpv_drone_code"]
 	path = Packages/2024_10_02_upm_kid_toy_fpv_drone_code
 	url = https://github.com/EloiStree/2024_10_02_upm_kid_toy_fpv_drone_code.git
+[submodule "Packages/2025_02_18_upm_outer_wilds_ship"]
+	path = Packages/2025_02_18_upm_outer_wilds_ship
+	url = https://github.com/EloiStree/2025_02_18_upm_outer_wilds_ship.git
+[submodule "Packages/2024_09_06_upm_best_time_score"]
+	path = Packages/2024_09_06_upm_best_time_score
+	url = https://github.com/EloiStree/2024_09_06_upm_best_time_score.git
+[submodule "Packages/2024_09_03_upm_sky_riding_path"]
+	path = Packages/2024_09_03_upm_sky_riding_path
+	url = https://github.com/EloiStree/2024_09_03_upm_sky_riding_path.git
+[submodule "Packages/2024_10_16_upm_blocks_color"]
+	path = Packages/2024_10_16_upm_blocks_color
+	url = https://github.com/EloiStree/2024_10_16_upm_blocks_color.git
+[submodule "Packages/2024_06_31_upm_air_circuit_step"]
+	path = Packages/2024_06_31_upm_air_circuit_step
+	url = https://github.com/EloiStree/2024_06_31_upm_air_circuit_step.git
+[submodule "Packages/2023_02_17_upm_digital_score_and_clock"]
+	path = Packages/2023_02_17_upm_digital_score_and_clock
+	url = https://github.com/EloiStree/2023_02_17_upm_digital_score_and_clock
+[submodule "Packages/2024_08_10_upm_developer_note"]
+	path = Packages/2024_08_10_upm_developer_note
+	url = https://github.com/EloiStree/2024_08_10_upm_developer_note.git
+[submodule "Packages/2024_10_16_upm_find_missing_script"]
+	path = Packages/2024_10_16_upm_find_missing_script
+	url = https://github.com/EloiStree/2024_10_16_upm_find_missing_script.git
+[submodule "Packages/2025_04_02_upm_primitive_relay"]
+	path = Packages/2025_04_02_upm_primitive_relay
+	url = https://github.com/EloiStree/2025_04_02_upm_primitive_relay.git
+[submodule "Packages/2024_04_18_upm_watch_execute_time"]
+	path = Packages/2024_04_18_upm_watch_execute_time
+	url = https://github.com/EloiStree/2024_04_18_upm_watch_execute_time.git
+[submodule "Packages/2019_07_24_upm_quick_git_utility"]
+	path = Packages/2019_07_24_upm_quick_git_utility
+	url = https://github.com/EloiStree/2019_07_24_upm_quick_git_utility.git
+[submodule "Packages/2019_07_21_upm_unity_package_facilitator"]
+	path = Packages/2019_07_21_upm_unity_package_facilitator
+	url = https://github.com/EloiStree/2019_07_21_upm_unity_package_facilitator.git
+[submodule "Packages/2026_04_03_upm_kid_toy_two_wheel_code"]
+	path = Packages/2026_04_03_upm_kid_toy_two_wheel_code
+	url = https://github.com/EloiStree/2026_04_03_upm_kid_toy_two_wheel_code.git

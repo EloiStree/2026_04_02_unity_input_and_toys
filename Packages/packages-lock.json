@@ -6,6 +6,36 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "be.elab.besttiming": {
+      "version": "file:2024_09_06_upm_best_time_score",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.blockscolor": {
+      "version": "file:2024_10_16_upm_blocks_color",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.developernote": {
+      "version": "file:2024_08_10_upm_developer_note",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.digitalscoreandclock": {
+      "version": "file:2023_02_17_upm_digital_score_and_clock",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.droneracestepmesh": {
+      "version": "file:2024_06_31_upm_air_circuit_step",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "be.elab.fpvtoy": {
       "version": "file:2024_10_02_upm_kid_toy_fpv_drone_code",
       "depth": 0,
@@ -18,14 +48,44 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "be.elab.missingscript": {
+      "version": "file:2024_10_16_upm_find_missing_script",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.outership": {
+      "version": "file:2025_02_18_upm_outer_wilds_ship",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "be.elab.ovnitoy": {
       "version": "file:2025_04_15_upm_kid_toy_ovni_code",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
     },
+    "be.elab.primitiverelay": {
+      "version": "file:2025_04_02_upm_primitive_relay",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.quickgitutility": {
+      "version": "file:2019_07_24_upm_quick_git_utility",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "be.elab.skidtoycar": {
       "version": "file:2023_11_01_upm_kid_toy_skid_steering_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.skyriding": {
+      "version": "file:2024_09_03_upm_sky_riding_path",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
@@ -54,11 +114,36 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "be.elab.twowheelscar": {
+      "version": "file:2026_04_03_upm_kid_toy_two_wheel_code",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "be.elab.unitypackagefacilitator": {
+      "version": "file:2019_07_21_upm_unity_package_facilitator",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "be.elab.uvdrawabledrones": {
       "version": "file:2024_08_05_upm_uv_drawable_drones",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
+    },
+    "be.elab.watchexecutetime": {
+      "version": "file:2024_04_18_upm_watch_execute_time",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.autodesk.fbx": {
+      "version": "5.1.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
     },
     "com.unity.ai.navigation": {
       "version": "2.0.9",
@@ -104,6 +189,16 @@
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
+    },
+    "com.unity.formats.fbx": {
+      "version": "5.1.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.autodesk.fbx": "5.1.1",
+        "com.unity.timeline": "1.7.1"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.ide.rider": {
       "version": "3.0.38",
